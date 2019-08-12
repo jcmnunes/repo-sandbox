@@ -16,3 +16,4 @@ f4
 v0.2.0
 f3
 f4
+release
