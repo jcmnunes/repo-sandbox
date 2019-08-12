@@ -17,3 +17,6 @@ v0.2.0
 f3
 f4
 release
+f1
+f2
+bugfix
