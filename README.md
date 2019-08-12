@@ -27,3 +27,5 @@ f1
 f2
 bugfix
 hotfix
+f3.1
+f3.2
